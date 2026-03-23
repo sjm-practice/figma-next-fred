@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This project was created to follow along with the DeepLearning.ai ["Claude Code: A Highly Agentic Coding Assistant"](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/) course.
+
+
 ## Getting Started
 
 First, run the development server:
